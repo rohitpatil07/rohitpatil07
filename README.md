@@ -50,7 +50,7 @@
 
 #### 🔗 Connect with me:
 
-<a href=https://www.linkedin.com/in/rohit-patil-0318991b6/">
+<a href="https://www.linkedin.com/in/rohit-patil-0318991b6/">
 <img alt="Rohit Patil | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://twitter.com/@Ro__patil07">
