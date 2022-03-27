@@ -7,6 +7,7 @@
 - 🎯 I am an aspiring Data Analyst!
 - 🔍 I am exploring UI/UX and Technical Writing
 - 🌱 I’m currently learning DSA and Machine Learning
+- Visit my site at https://rohitpatil-portfolio.netlify.app/
 
 ---
 
