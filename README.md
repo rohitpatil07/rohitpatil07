@@ -4,7 +4,7 @@
 
 #### 🤵 About Me:
 
-- 🎯 I am an aspiring Data Analyst!
+- 🎯 I am an aspiring Software Dev!
 - 🔍 I am exploring UI/UX and Technical Writing
 - 🌱 I’m currently learning DSA and Machine Learning
 - Visit my site at https://rohitpatil.vercel.app
